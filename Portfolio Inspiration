@@ -20,3 +20,40 @@
 .ESI-—-website-redesign-3-hsla { color: hsla(224, 8, 94, 1); }
 .ESI-—-website-redesign-4-hsla { color: hsla(213, 16, 47, 1); }
 .ESI-—-website-redesign-5-hsla { color: hsla(0, 0, 5, 1); }
+
+
+Webdev Project Ideas / Check List
+* Make header
+* Make footer
+* Make calculator
+* Make Notes application
+* Make popup photos / elements
+* Graph from data (pie, XY graph, charts)
+* Hangman (Jennifer Dewalt Site)
+* Make 2048 game
+* Trello board
+* Useless Machine
+* Magnifying glass image viewer
+* Tic Tac Toe
+* Connect Four (isometric)
+* Wordle
+* Music playing with typing keyboard
+* Moving person
+* Bomberman
+* Snake
+* Madlibs
+* API for financial data
+* Music Looper - where you can drop notes onto a basic timeline
+* Reddit-like message board
+* Restaurant Menu
+* Ecommerce Website / Shopify Template
+
+
+API Fetch Data Sample for Portfolio:
+https://jsonplaceholder.typicode.com/
+
+JSON API for Pokemon Trading Cards
+https://pokemontcg.io
+
+JSON API for Pokemon
+https://pokeapi.copok
