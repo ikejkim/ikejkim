@@ -1,0 +1,22 @@
+/* Portfolio Color Thoughts */
+
+/* Color Theme Swatches in Hex */
+.ESI-—-website-redesign-1-hex { color: #3E3E40; }
+.ESI-—-website-redesign-2-hex { color: #BDBDBF; }
+.ESI-—-website-redesign-3-hex { color: #F0F0F2; }
+.ESI-—-website-redesign-4-hex { color: #64758C; }
+.ESI-—-website-redesign-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.ESI-—-website-redesign-1-rgba { color: rgba(62, 61, 63, 1); }
+.ESI-—-website-redesign-2-rgba { color: rgba(189, 189, 191, 1); }
+.ESI-—-website-redesign-3-rgba { color: rgba(239, 240, 242, 1); }
+.ESI-—-website-redesign-4-rgba { color: rgba(99, 117, 140, 1); }
+.ESI-—-website-redesign-5-rgba { color: rgba(12, 12, 12, 1); }
+
+/* Color Theme Swatches in HSLA */
+.ESI-—-website-redesign-1-hsla { color: hsla(258, 1, 24, 1); }
+.ESI-—-website-redesign-2-hsla { color: hsla(236, 1, 74, 1); }
+.ESI-—-website-redesign-3-hsla { color: hsla(224, 8, 94, 1); }
+.ESI-—-website-redesign-4-hsla { color: hsla(213, 16, 47, 1); }
+.ESI-—-website-redesign-5-hsla { color: hsla(0, 0, 5, 1); }
